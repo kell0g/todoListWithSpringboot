@@ -1,4 +1,4 @@
-# todoListWithSpringboot
+# TodoList
 
 ## Task Object
 
